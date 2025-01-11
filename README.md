@@ -54,7 +54,7 @@ Present findings through clear and engaging visualizations.
 
 ## Visualizations:
 - A **donut chart** depicting the percentage distribution of top investment reasons.
-- A **bar chart** showing the correlation between reasons and investment durations.
+- A **Column chart** showing the correlation between reasons and investment durations.
 - A **line graph** illustrating the distribution of reasons by monitoring frequency.
 
   ![Task 5](https://github.com/user-attachments/assets/a306d364-f754-45a5-86c1-da461a1d9873)
