@@ -1,4 +1,4 @@
-# Task-5-Common-Reasons-for-Investment-Analysis-
+# Task-5-Common-Reasons-for-Investment-Analysis
 
 ## Overview
 This repository contains a Power BI project that analyzes the reasons for investments, highlighting key trends and preferences across various investment avenues.
