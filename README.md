@@ -9,9 +9,9 @@ The analysis identifies common motivations such as Better Returns, Capital Appre
 ## Project Details
 
 ### Objective:
-Analyze and visualize the common reasons for investment.
-Identify trends in the most frequently cited motivations (e.g., Better Returns, Tax Benefits).
-Present findings through clear and engaging visualizations.
+- Analyze and visualize the common reasons for investment.
+- Identify trends in the most frequently cited motivations (e.g., Better Returns, Tax Benefits).
+- Present findings through clear and engaging visualizations.
 
 ### Steps Performed:
 1. **Reason Analysis:**
